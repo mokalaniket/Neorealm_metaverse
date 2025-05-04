@@ -1,4 +1,3 @@
-# SkyOffice ![License](https://img.shields.io/badge/license-MIT-blue) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
 
 <img alt="Logo" align="right" src="D:\New folder\neo_realm\client\public\logo192.png" width="20%" />
 
@@ -58,17 +57,6 @@ You'll need [Node.js](https://nodejs.org/en/), [npm](https://www.npmjs.com/) ins
 ## Getting Started
 
 Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/NavjotBhullar/Neo_realm
-```
-
-This will create a folder named `Neo_realm`. You can specify a different folder name like this:
-
-```bash
-git clone https://github.com/NavjotBhullar/Neo_realm my-folder-name
-```
-
 To start a server, go into the project folder and install dependencies/run start command:
 
 ```bash
